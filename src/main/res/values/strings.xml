@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit1</string>
+    <string name="tietueidenMaara">Tietueiden määrä: </string>
+    <string name="parilliset">Parilliset</string>
+    <string name="kaikki">Kaikki</string>
+</resources>
+
